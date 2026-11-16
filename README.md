@@ -66,3 +66,5 @@ Because each screen is built as a standalone static prototype, no complex build 
 
 - **Theme:** Neon Tokyo (Dark Mode with vibrant purple & electric neon highlights)
 - **Reference Previews:** Each feature folder includes a `screen.png` file showing the intended layout and visual fidelity. Refer to `neon_tokyo/DESIGN.md` when extending components or unifying the screens into a single-page application (SPA).
+
+All of this, uses Google AI studio and Google sticth. 
