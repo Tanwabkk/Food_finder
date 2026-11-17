@@ -1,6 +1,6 @@
 # MoodBite — Mood-Based Food Finder
 
-**MoodBite** is a modern, interactive food discovery and local restaurant finder web application designed with a vibrant **Neon Tokyo** aesthetic. It helps users discover what to eat based on their current mood, regional cravings (with a dedicated Thai regional flavor tuner), and nearby local shops through an intuitive swipe-based interface.
+**MoodBite** is a modern, interactive food discovery and local restaurant finder web application designed with a vibrant **Neon Tokyo** aesthetic. It helps users discover what to eat based on their current mood, regional cravings (with a dedicated Thai regional flavor tuner), and nearby local shops through an intuitive swipe-based interface. Just like in Tinder.
 
 ---
 
